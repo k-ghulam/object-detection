@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "signLanguage"
+project_name = "venv"
 
 list_of_files = [
     "data/.gitkeep",
